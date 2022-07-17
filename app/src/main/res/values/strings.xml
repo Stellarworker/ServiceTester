@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ServiceTester</string>
+    <string name="test_message">Service is testing. See Logcat for details
+        (keywords: SystemIntentService, MyIntentService).</string>
 </resources>
